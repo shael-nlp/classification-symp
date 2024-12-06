@@ -1,2 +1,4 @@
 # classification-symp
-class ml project - classifying diseases from patients input
+class ml/dl project - classifying diseases from patients input
+
+This repo will mostly contains copies from my work on colab
