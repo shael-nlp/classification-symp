@@ -152,5 +152,5 @@ plt.xlabel("Colonne")
 plt.ylim(0, 1)
 plt.show()
 
-results_df.to_csv("test-result-BILSTM.csv", index=False)
+results_df.to_csv("test_result_BILSTM.csv", index=False)
 print("Résultats enregistrés.")
