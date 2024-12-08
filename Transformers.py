@@ -124,8 +124,8 @@ for col in ['description', 'simple', 'fautes']:
     f1_col = f1_score(test_data['label_fr_encoded'], np.argmax(col_predictions.predictions, axis=-1), average='macro')
 
     test_f1_scores.append({
-        "column": col,
-        "f1_macro": f1_col
+        "Test Version": col,
+        "F1": f1_col
     })
 
 f1_scores_df = pd.DataFrame(test_f1_scores)
