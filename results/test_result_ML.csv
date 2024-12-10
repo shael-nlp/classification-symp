@@ -1,0 +1,85 @@
+Train Version,Test Version,Model,F1,Training Type
+Description,Description,Baseline,0.0036166365280289334,Individuel
+Description,Description,Multinomial NB,0.7544325035668431,Individuel
+Description,Description,CART,0.7588322868508627,Individuel
+Description,Description,Logistic Regression,0.8996654877548287,Individuel
+Description,Description,KNN,0.8836698981177826,Individuel
+Description,Description,Random Forest,0.9292012756519612,Individuel
+Description,Description,LinearSVC,0.9649644473173884,Individuel
+Description,Simple,Baseline,0.0036166365280289334,Individuel
+Description,Simple,Multinomial NB,0.688819568231333,Individuel
+Description,Simple,CART,0.6222560533594313,Individuel
+Description,Simple,Logistic Regression,0.8319809138709837,Individuel
+Description,Simple,KNN,0.7859585434119596,Individuel
+Description,Simple,Random Forest,0.8338809027884659,Individuel
+Description,Simple,LinearSVC,0.8487892470201184,Individuel
+Description,Fautes,Baseline,0.0036166365280289334,Individuel
+Description,Fautes,Multinomial NB,0.5673242469658062,Individuel
+Description,Fautes,CART,0.4266592071078873,Individuel
+Description,Fautes,Logistic Regression,0.6427994023296217,Individuel
+Description,Fautes,KNN,0.722741591463396,Individuel
+Description,Fautes,Random Forest,0.6240569150872403,Individuel
+Description,Fautes,LinearSVC,0.7262606552484391,Individuel
+Simple,Description,Baseline,0.0036166365280289334,Individuel
+Simple,Description,Multinomial NB,0.7565664476092722,Individuel
+Simple,Description,CART,0.6564931022914215,Individuel
+Simple,Description,Logistic Regression,0.8855734290608239,Individuel
+Simple,Description,KNN,0.8294580799787231,Individuel
+Simple,Description,Random Forest,0.7678305450235273,Individuel
+Simple,Description,LinearSVC,0.9079073691118509,Individuel
+Simple,Simple,Baseline,0.0036166365280289334,Individuel
+Simple,Simple,Multinomial NB,0.7773870942353158,Individuel
+Simple,Simple,CART,0.8071878653995712,Individuel
+Simple,Simple,Logistic Regression,0.9250818699606911,Individuel
+Simple,Simple,KNN,0.8997706046799367,Individuel
+Simple,Simple,Random Forest,0.9242004469202899,Individuel
+Simple,Simple,LinearSVC,0.9330975591479793,Individuel
+Simple,Fautes,Baseline,0.0036166365280289334,Individuel
+Simple,Fautes,Multinomial NB,0.6518404376431798,Individuel
+Simple,Fautes,CART,0.508760127884986,Individuel
+Simple,Fautes,Logistic Regression,0.7721372255858826,Individuel
+Simple,Fautes,KNN,0.7701650201650201,Individuel
+Simple,Fautes,Random Forest,0.7635341698290817,Individuel
+Simple,Fautes,LinearSVC,0.8085035723691185,Individuel
+Fautes,Description,Baseline,0.0036166365280289334,Individuel
+Fautes,Description,Multinomial NB,0.6002905685236511,Individuel
+Fautes,Description,CART,0.37140515937077945,Individuel
+Fautes,Description,Logistic Regression,0.5920542220077826,Individuel
+Fautes,Description,KNN,0.6727425773258707,Individuel
+Fautes,Description,Random Forest,0.6461919021693755,Individuel
+Fautes,Description,LinearSVC,0.700021485031805,Individuel
+Fautes,Simple,Baseline,0.0036166365280289334,Individuel
+Fautes,Simple,Multinomial NB,0.6842513374655088,Individuel
+Fautes,Simple,CART,0.4383030834711507,Individuel
+Fautes,Simple,Logistic Regression,0.7169527521153389,Individuel
+Fautes,Simple,KNN,0.7704027908141132,Individuel
+Fautes,Simple,Random Forest,0.7668823286321315,Individuel
+Fautes,Simple,LinearSVC,0.7968227796032602,Individuel
+Fautes,Fautes,Baseline,0.0036166365280289334,Individuel
+Fautes,Fautes,Multinomial NB,0.8390595341723162,Individuel
+Fautes,Fautes,CART,0.7422695077152512,Individuel
+Fautes,Fautes,Logistic Regression,0.9350433023450927,Individuel
+Fautes,Fautes,KNN,0.8741464593034693,Individuel
+Fautes,Fautes,Random Forest,0.9021776145946867,Individuel
+Fautes,Fautes,LinearSVC,0.9575744146289755,Individuel
+Toutes,Description,Baseline,0.0036166365280289334,Combiné
+Toutes,Description,Multinomial NB,0.8751614942791415,Combiné
+Toutes,Description,CART,0.7964909882775199,Combiné
+Toutes,Description,Logistic Regression,0.9215185024649863,Combiné
+Toutes,Description,KNN,0.8836629400870887,Combiné
+Toutes,Description,Random Forest,0.8912112311493117,Combiné
+Toutes,Description,LinearSVC,0.9225191627926406,Combiné
+Toutes,Simple,Baseline,0.0036166365280289334,Combiné
+Toutes,Simple,Multinomial NB,0.8810711435435008,Combiné
+Toutes,Simple,CART,0.809266492349199,Combiné
+Toutes,Simple,Logistic Regression,0.9294469493257705,Combiné
+Toutes,Simple,KNN,0.8907325906364424,Combiné
+Toutes,Simple,Random Forest,0.9091092217363778,Combiné
+Toutes,Simple,LinearSVC,0.9115553962966613,Combiné
+Toutes,Fautes,Baseline,0.0036166365280289334,Combiné
+Toutes,Fautes,Multinomial NB,0.869584801383127,Combiné
+Toutes,Fautes,CART,0.7915918159788705,Combiné
+Toutes,Fautes,Logistic Regression,0.9297056442453504,Combiné
+Toutes,Fautes,KNN,0.8676060282208005,Combiné
+Toutes,Fautes,Random Forest,0.897714231695925,Combiné
+Toutes,Fautes,LinearSVC,0.9537703970477079,Combiné
